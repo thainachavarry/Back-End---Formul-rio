@@ -13,9 +13,8 @@
     <body>  
 
         <div>
-            <h1 id="titulo">Pesquisa Bem Promotora </h1>
+            <h1 id="titulo">Pesquisa </h1>
             <p id="subtitulo">Por favor, responda as perguntas abaixo:</p>
-            <img src="/assets/logo-bem.png">
             <br>
         </div>
 
